@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2762
+
+This file allow vim to detect your falcon source code.
+
+Syntax:   vimscript #2745 
+Indent:    vimscript #2752 
+Ftdetect: vimscript #2763 
+
+For the latest version check: 
+http://github.com/steveno/falconpl-vim
